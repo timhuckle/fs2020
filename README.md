@@ -6,5 +6,5 @@ First project: Cardington hangers near Bedford.  As requested at https://www.red
 
 Seemed like a simple first choice,  the hangers are indeed sorely absent from the current release, so hopefully this contribution makes it better for those wanting what remain some of the largest structures in Europe.
 
-![Image of Cardington Sheds scenery add on](https://github.com/timhuckle/fs2020/cardington-hanger-snap.PNG)
+
 
