@@ -1,6 +1,6 @@
 # Scenery models for Flight Simulator 2020.
 
-No experience with 3D, but will finalise a couple of buildings and stadia over the next few weeks in spare time. 
+Follow me on twitter @timhuckle for updates and new packs.
 
 First project: Cardington hangers near Bedford.  As requested at https://www.reddit.com/r/FS2020Creation/comments/igy1av/cardington_sheds_modelling_request/
 
